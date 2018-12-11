@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Network Function Virtualization}{4}
+\contentsline {section}{\numberline {2}Design and modeling}{5}
+\contentsline {subsection}{\numberline {2.1}Off-Idle-Active State Transitionel}{5}
+\contentsline {subsection}{\numberline {2.2}M/M/c Queuing Network Model}{6}
+\contentsline {section}{\numberline {3}Problem Formulation}{8}
+\contentsline {subsection}{\numberline {3.1}Variable Declaration}{8}
+\contentsline {subsection}{\numberline {3.2}Objective Function and Constraints}{11}
+\contentsline {section}{\numberline {4}Solution Approch}{14}
+\contentsline {section}{\numberline {5}Experiment Setup}{18}
